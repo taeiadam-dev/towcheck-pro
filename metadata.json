@@ -1,0 +1,5 @@
+{
+  "name": "TowCheck Pro",
+  "description": "Verified towing recovery assistant with real-time OEM documentation search and voice support.",
+  "requestFramePermissions": ["microphone"]
+}
